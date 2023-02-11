@@ -1,0 +1,13 @@
+/home/sential/Document/rust-workspace/rust_live_coding/target/debug/deps/url-0cef030ca0dffa67.rmeta: /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs
+
+/home/sential/Document/rust-workspace/rust_live_coding/target/debug/deps/liburl-0cef030ca0dffa67.rlib: /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs
+
+/home/sential/Document/rust-workspace/rust_live_coding/target/debug/deps/url-0cef030ca0dffa67.d: /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs /home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs
+
+/home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs:
+/home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs:
+/home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs:
+/home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs:
+/home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs:
+/home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs:
+/home/sential/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs:
