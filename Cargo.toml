@@ -1,5 +1,7 @@
 [workspace]
 members = [
     "web2image",
-    "kv_store"
+    "kv_store",
+    "pow",
+    "prost_live_coding"
 ]
