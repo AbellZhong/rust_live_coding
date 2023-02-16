@@ -8,6 +8,5 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.69"
 clap = { version = "4.1.4", features = ["derive"] }
-headless_chrome = "1.0.4"
 qrcode = "0.12.0"
 url = "2.3.1"

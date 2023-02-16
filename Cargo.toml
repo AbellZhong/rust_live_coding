@@ -3,5 +3,6 @@ members = [
     "web2image",
     "kv_store",
     "pow",
-    "prost_live_coding"
+    "prost_live_coding",
+    "axum_live_coding"
 ]
